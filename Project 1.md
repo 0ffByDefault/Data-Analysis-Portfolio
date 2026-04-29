@@ -102,14 +102,6 @@ The scores are calculated based on:
 
 ## 📊 Visualizations
 
-### CPI vs SPI Comparison
-
-<p align="center">
-  <img src="https://quickchart.io/chart?c=%7Btype%3A%27bar%27%2Cdata%3A%7Blabels%3A%5B%27EdTech%27%2C%27FinTech%27%2C%27Cybersecurity%27%2C%27Telecom%27%2C%27Clean%20Energy%27%2C%27Healthcare%20IT%27%2C%27GovTech%27%2C%27E-Commerce%27%2C%27Enterprise%27%2C%27AI%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27CPI%27%2Cdata%3A%5B4.05%2C1.7%2C7.91%2C1.34%2C1.1%2C1.2%2C208.06%2C1.03%2C0.79%2C0.62%5D%7D%2C%7Blabel%3A%27SPI%27%2Cdata%3A%5B1.79%2C1.54%2C1.2%2C1.92%2C2.36%2C2.89%2C3.63%2C1.64%2C1.58%2C0.6%5D%7D%5D%7D%7D" width="700"/>
-</p>
-
----
-
 ### Budget Reserve by Sector
 
 <p align="center">
