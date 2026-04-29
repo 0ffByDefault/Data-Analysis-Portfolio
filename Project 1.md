@@ -92,7 +92,7 @@ The scores are calculated based on:
 
 ---
 ## 📊 Visualizations
----
+
 
 ### 📊 Overall Sector Performance
 
