@@ -91,80 +91,38 @@ The scores are calculated based on:
 - TCPI > 0.9  
 
 ---
-
 ---
 
 ## 📊 Visualizations
 
 ### 1. Sector Performance Scores
 
-![Sector Performance Scores](https://quickchart.io/chart?c={type:'bar',
-data:{
-labels:['EdTech','FinTech','Cybersecurity','Telecom','Clean Energy','Healthcare IT','GovTech','E-Commerce','Enterprise','AI'],
-datasets:[{
-label:'Score (out of 5)',
-data:[5,5,5,5,4,4,4,3,3,1]
-}]
-}
-})
+![Sector Performance Scores](https://quickchart.io/chart?c=%7Btype%3A%27bar%27%2Cdata%3A%7Blabels%3A%5B%27EdTech%27%2C%27FinTech%27%2C%27Cybersecurity%27%2C%27Telecom%27%2C%27Clean%20Energy%27%2C%27Healthcare%20IT%27%2C%27GovTech%27%2C%27E-Commerce%27%2C%27Enterprise%27%2C%27AI%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Score%20(out%20of%205)%27%2Cdata%3A%5B5%2C5%2C5%2C5%2C4%2C4%2C4%2C3%2C3%2C1%5D%7D%5D%7D%7D)
 
 ---
 
 ### 2. CPI vs SPI Comparison
 
-![CPI vs SPI](https://quickchart.io/chart?c={type:'bar',
-data:{
-labels:['EdTech','FinTech','Cybersecurity','Telecom','Clean Energy','Healthcare IT','GovTech','E-Commerce','Enterprise','AI'],
-datasets:[
-{
-label:'CPI',
-data:[4.05,1.70,7.91,1.34,1.10,1.20,208.06,1.03,0.79,0.62]
-},
-{
-label:'SPI',
-data:[1.79,1.54,1.20,1.92,2.36,2.89,3.63,1.64,1.58,0.60]
-}
-]
-}
-})
+![CPI vs SPI](https://quickchart.io/chart?c=%7Btype%3A%27bar%27%2Cdata%3A%7Blabels%3A%5B%27EdTech%27%2C%27FinTech%27%2C%27Cybersecurity%27%2C%27Telecom%27%2C%27Clean%20Energy%27%2C%27Healthcare%20IT%27%2C%27GovTech%27%2C%27E-Commerce%27%2C%27Enterprise%27%2C%27AI%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27CPI%27%2Cdata%3A%5B4.05%2C1.7%2C7.91%2C1.34%2C1.1%2C1.2%2C208.06%2C1.03%2C0.79%2C0.62%5D%7D%2C%7Blabel%3A%27SPI%27%2Cdata%3A%5B1.79%2C1.54%2C1.2%2C1.92%2C2.36%2C2.89%2C3.63%2C1.64%2C1.58%2C0.6%5D%7D%5D%7D%7D)
 
 ---
 
 ### 3. Budget Reserve by Sector
 
-![Budget Reserve](https://quickchart.io/chart?c={type:'bar',
-data:{
-labels:['EdTech','FinTech','Cybersecurity','Telecom','Healthcare IT','Enterprise'],
-datasets:[{
-label:'Budget Reserve (%)',
-data:[47.3,42.1,61.5,42.7,50.6,47]
-}]
-}
-})
+![Budget Reserve](https://quickchart.io/chart?c=%7Btype%3A%27bar%27%2Cdata%3A%7Blabels%3A%5B%27EdTech%27%2C%27FinTech%27%2C%27Cybersecurity%27%2C%27Telecom%27%2C%27Healthcare%20IT%27%2C%27Enterprise%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Budget%20Reserve%20(%25)%27%2Cdata%3A%5B47.3%2C42.1%2C61.5%2C42.7%2C50.6%2C47%5D%7D%5D%7D%7D)
 
 ---
 
 ### 4. Percentage of Projects Over Budget
 
-![Over Budget Percentage](https://quickchart.io/chart?c={type:'bar',
-data:{
-labels:['Healthcare IT','GovTech','E-Commerce','Enterprise','AI'],
-datasets:[{
-label:'% Over Budget',
-data:[63.64,50,66.67,71.43,80]
-}]
-}
-})
+![Over Budget Percentage](https://quickchart.io/chart?c=%7Btype%3A%27bar%27%2Cdata%3A%7Blabels%3A%5B%27Healthcare%20IT%27%2C%27GovTech%27%2C%27E-Commerce%27%2C%27Enterprise%27%2C%27AI%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27%25%20Over%20Budget%27%2Cdata%3A%5B63.64%2C50%2C66.67%2C71.43%2C80%5D%7D%5D%7D%7D)
 
 ---
 
-### 5. Performance Distribution (Score Breakdown)
+### 5. Performance Distribution
 
-![Score Distribution](https://quickchart.io/chart?c={type:'pie',
-data:{
-labels:['Top (5/5)','Strong (4/5)','Moderate (3/5)','Underperforming (1/5)'],
-datasets:[{
-data:[4,3,2,1]
-}]
-}
-})
+![Performance Distribution](https://quickchart.io/chart?c=%7Btype%3A%27pie%27%2Cdata%3A%7Blabels%3A%5B%27Top%20(5%2F5)%27%2C%27Strong%20(4%2F5)%27%2C%27Moderate%20(3%2F5)%27%2C%27Underperforming%20(1%2F5)%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B4%2C3%2C2%2C1%5D%7D%5D%7D%7D)
+
+---
+
+
