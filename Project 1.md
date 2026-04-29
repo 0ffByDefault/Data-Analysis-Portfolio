@@ -98,8 +98,7 @@ The scores are calculated based on:
 
 ### 1. Sector Performance Scores
 
-![Sector Performance Scores](https://quickchart.io/chart?c={
-type:'bar',
+![Sector Performance Scores](https://quickchart.io/chart?c={type:'bar',
 data:{
 labels:['EdTech','FinTech','Cybersecurity','Telecom','Clean Energy','Healthcare IT','GovTech','E-Commerce','Enterprise','AI'],
 datasets:[{
@@ -113,8 +112,7 @@ data:[5,5,5,5,4,4,4,3,3,1]
 
 ### 2. CPI vs SPI Comparison
 
-![CPI vs SPI](https://quickchart.io/chart?c={
-type:'bar',
+![CPI vs SPI](https://quickchart.io/chart?c={type:'bar',
 data:{
 labels:['EdTech','FinTech','Cybersecurity','Telecom','Clean Energy','Healthcare IT','GovTech','E-Commerce','Enterprise','AI'],
 datasets:[
@@ -134,8 +132,7 @@ data:[1.79,1.54,1.20,1.92,2.36,2.89,3.63,1.64,1.58,0.60]
 
 ### 3. Budget Reserve by Sector
 
-![Budget Reserve](https://quickchart.io/chart?c={
-type:'bar',
+![Budget Reserve](https://quickchart.io/chart?c={type:'bar',
 data:{
 labels:['EdTech','FinTech','Cybersecurity','Telecom','Healthcare IT','Enterprise'],
 datasets:[{
@@ -149,8 +146,7 @@ data:[47.3,42.1,61.5,42.7,50.6,47]
 
 ### 4. Percentage of Projects Over Budget
 
-![Over Budget Percentage](https://quickchart.io/chart?c={
-type:'bar',
+![Over Budget Percentage](https://quickchart.io/chart?c={type:'bar',
 data:{
 labels:['Healthcare IT','GovTech','E-Commerce','Enterprise','AI'],
 datasets:[{
@@ -164,8 +160,7 @@ data:[63.64,50,66.67,71.43,80]
 
 ### 5. Performance Distribution (Score Breakdown)
 
-![Score Distribution](https://quickchart.io/chart?c={
-type:'pie',
+![Score Distribution](https://quickchart.io/chart?c={type:'pie',
 data:{
 labels:['Top (5/5)','Strong (4/5)','Moderate (3/5)','Underperforming (1/5)'],
 datasets:[{
