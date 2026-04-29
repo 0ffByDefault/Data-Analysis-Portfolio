@@ -91,38 +91,45 @@ The scores are calculated based on:
 - TCPI > 0.9  
 
 ---
+
+### 📊 Overall Sector Performance
+
+<p align="center">
+  <img src="https://quickchart.io/chart?c=%7Btype%3A%27bar%27%2Cdata%3A%7Blabels%3A%5B%27EdTech%27%2C%27FinTech%27%2C%27Cybersecurity%27%2C%27Telecom%27%2C%27Clean%20Energy%27%2C%27Healthcare%20IT%27%2C%27GovTech%27%2C%27E-Commerce%27%2C%27Enterprise%27%2C%27AI%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Score%20(out%20of%205)%27%2Cdata%3A%5B5%2C5%2C5%2C5%2C4%2C4%2C4%2C3%2C3%2C1%5D%7D%5D%7D%7D" width="700"/>
+</p>
+
 ---
 
 ## 📊 Visualizations
 
-### 1. Sector Performance Scores
+### CPI vs SPI Comparison
 
-![Sector Performance Scores](https://quickchart.io/chart?c=%7Btype%3A%27bar%27%2Cdata%3A%7Blabels%3A%5B%27EdTech%27%2C%27FinTech%27%2C%27Cybersecurity%27%2C%27Telecom%27%2C%27Clean%20Energy%27%2C%27Healthcare%20IT%27%2C%27GovTech%27%2C%27E-Commerce%27%2C%27Enterprise%27%2C%27AI%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Score%20(out%20of%205)%27%2Cdata%3A%5B5%2C5%2C5%2C5%2C4%2C4%2C4%2C3%2C3%2C1%5D%7D%5D%7D%7D)
-
----
-
-### 2. CPI vs SPI Comparison
-
-![CPI vs SPI](https://quickchart.io/chart?c=%7Btype%3A%27bar%27%2Cdata%3A%7Blabels%3A%5B%27EdTech%27%2C%27FinTech%27%2C%27Cybersecurity%27%2C%27Telecom%27%2C%27Clean%20Energy%27%2C%27Healthcare%20IT%27%2C%27GovTech%27%2C%27E-Commerce%27%2C%27Enterprise%27%2C%27AI%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27CPI%27%2Cdata%3A%5B4.05%2C1.7%2C7.91%2C1.34%2C1.1%2C1.2%2C208.06%2C1.03%2C0.79%2C0.62%5D%7D%2C%7Blabel%3A%27SPI%27%2Cdata%3A%5B1.79%2C1.54%2C1.2%2C1.92%2C2.36%2C2.89%2C3.63%2C1.64%2C1.58%2C0.6%5D%7D%5D%7D%7D)
+<p align="center">
+  <img src="https://quickchart.io/chart?c=%7Btype%3A%27bar%27%2Cdata%3A%7Blabels%3A%5B%27EdTech%27%2C%27FinTech%27%2C%27Cybersecurity%27%2C%27Telecom%27%2C%27Clean%20Energy%27%2C%27Healthcare%20IT%27%2C%27GovTech%27%2C%27E-Commerce%27%2C%27Enterprise%27%2C%27AI%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27CPI%27%2Cdata%3A%5B4.05%2C1.7%2C7.91%2C1.34%2C1.1%2C1.2%2C208.06%2C1.03%2C0.79%2C0.62%5D%7D%2C%7Blabel%3A%27SPI%27%2Cdata%3A%5B1.79%2C1.54%2C1.2%2C1.92%2C2.36%2C2.89%2C3.63%2C1.64%2C1.58%2C0.6%5D%7D%5D%7D%7D" width="700"/>
+</p>
 
 ---
 
-### 3. Budget Reserve by Sector
+### Budget Reserve by Sector
 
-![Budget Reserve](https://quickchart.io/chart?c=%7Btype%3A%27bar%27%2Cdata%3A%7Blabels%3A%5B%27EdTech%27%2C%27FinTech%27%2C%27Cybersecurity%27%2C%27Telecom%27%2C%27Healthcare%20IT%27%2C%27Enterprise%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Budget%20Reserve%20(%25)%27%2Cdata%3A%5B47.3%2C42.1%2C61.5%2C42.7%2C50.6%2C47%5D%7D%5D%7D%7D)
-
----
-
-### 4. Percentage of Projects Over Budget
-
-![Over Budget Percentage](https://quickchart.io/chart?c=%7Btype%3A%27bar%27%2Cdata%3A%7Blabels%3A%5B%27Healthcare%20IT%27%2C%27GovTech%27%2C%27E-Commerce%27%2C%27Enterprise%27%2C%27AI%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27%25%20Over%20Budget%27%2Cdata%3A%5B63.64%2C50%2C66.67%2C71.43%2C80%5D%7D%5D%7D%7D)
+<p align="center">
+  <img src="https://quickchart.io/chart?c=%7Btype%3A%27bar%27%2Cdata%3A%7Blabels%3A%5B%27EdTech%27%2C%27FinTech%27%2C%27Cybersecurity%27%2C%27Telecom%27%2C%27Healthcare%20IT%27%2C%27Enterprise%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Budget%20Reserve%20(%25)%27%2Cdata%3A%5B47.3%2C42.1%2C61.5%2C42.7%2C50.6%2C47%5D%7D%5D%7D%7D" width="600"/>
+</p>
 
 ---
 
-### 5. Performance Distribution
+### Percentage of Projects Over Budget
 
-![Performance Distribution](https://quickchart.io/chart?c=%7Btype%3A%27pie%27%2Cdata%3A%7Blabels%3A%5B%27Top%20(5%2F5)%27%2C%27Strong%20(4%2F5)%27%2C%27Moderate%20(3%2F5)%27%2C%27Underperforming%20(1%2F5)%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B4%2C3%2C2%2C1%5D%7D%5D%7D%7D)
+<p align="center">
+  <img src="https://quickchart.io/chart?c=%7Btype%3A%27bar%27%2Cdata%3A%7Blabels%3A%5B%27Healthcare%20IT%27%2C%27GovTech%27%2C%27E-Commerce%27%2C%27Enterprise%27%2C%27AI%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27%25%20Over%20Budget%27%2Cdata%3A%5B63.64%2C50%2C66.67%2C71.43%2C80%5D%7D%5D%7D%7D" width="600"/>
+</p>
 
 ---
 
+### Performance Distribution
 
+<p align="center">
+  <img src="https://quickchart.io/chart?c=%7Btype%3A%27pie%27%2Cdata%3A%7Blabels%3A%5B%27Top%20(5%2F5)%27%2C%27Strong%20(4%2F5)%27%2C%27Moderate%20(3%2F5)%27%2C%27Underperforming%20(1%2F5)%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B4%2C3%2C2%2C1%5D%7D%5D%7D%7D" width="450"/>
+</p>
+
+---
