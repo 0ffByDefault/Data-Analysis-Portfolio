@@ -121,7 +121,9 @@ The scores are calculated based on:
 ### Performance Distribution
 
 <p align="center">
-  <img src="https://quickchart.io/chart?c=%7Btype%3A%27pie%27%2Cdata%3A%7Blabels%3A%5B%27Top%20(5%2F5)%27%2C%27Strong%20(4%2F5)%27%2C%27Moderate%20(3%2F5)%27%2C%27Underperforming%20(1%2F5)%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B4%2C3%2C2%2C1%5D%7D%5D%7D%7D" width="450"/>
+  <img src="https://quickchart.io/chart?c=%7Btype%3A%27pie%27%2Cdata%3A%7Blabels%3A%5B%27Top%20(5%2F5)%27%2C%27Strong%20(4%2F5)%27%2C%27Moderate%20(3%2F5)%27%2C%27Underperforming%20(1%2F5)%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B4%2C3%2C2%2C1%5D%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Bdatalabels%3A%7Bcolor%3A%27white%27%2Cfont%3A%7Bweight%3A%27bold%27%2Csize%3A14%7D%7D%7D%7D%7D" width="450"/>
 </p>
+
+---
 
 ---
