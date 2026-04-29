@@ -91,6 +91,8 @@ The scores are calculated based on:
 - TCPI > 0.9  
 
 ---
+## 📊 Visualizations
+---
 
 ### 📊 Overall Sector Performance
 
@@ -100,7 +102,6 @@ The scores are calculated based on:
 
 ---
 
-## 📊 Visualizations
 
 ### Budget Reserve by Sector
 
