@@ -126,5 +126,112 @@ The scores are calculated based on:
 </p>
 
 ---
+---
 
+## 📌 Executive Summary
+
+The sector-level analysis reveals a **generally strong portfolio with clear leaders, stable performers, and a small number of high-risk sectors requiring intervention**. Performance has been categorized based on total scores out of 5:
+
+- **High Performance (5/5)**
+- **Satisfactory Performance (3–4/5)**
+- **Unsatisfactory Performance (≤2/5)**
+
+---
+
+### 🟢 High Performing Sectors (5/5)
+
+**EdTech, FinTech, Cybersecurity, Telecommunications**
+
+These sectors demonstrate **excellent operational health across all KPIs**, consistently meeting or exceeding thresholds for cost efficiency, schedule adherence, and budget discipline.
+
+**Key Drivers of Success:**
+- Strong **cost control (CPI > 0.9)** and efficient execution
+- High **schedule reliability (SPI > 0.75)**
+- Healthy **budget reserves**, allowing flexibility and risk absorption
+- Effective **resource planning**, minimizing strain on remaining work (TCPI)
+
+**Implication:**  
+These sectors represent **best-in-class execution models** and are prime candidates for:
+- Continued or increased investment  
+- Benchmarking practices across weaker sectors  
+
+---
+
+### 🟡 Satisfactory Performing Sectors (3–4/5)
+
+**Clean Energy, Healthcare IT, GovTech (4/5)**  
+**E-Commerce, Enterprise Software (3/5)**
+
+These sectors show **generally stable performance**, but with **specific weaknesses preventing top-tier classification**.
+
+**Observed Challenges:**
+- **Budget compliance issues**, particularly in Healthcare IT, GovTech, and E-Commerce
+- Elevated **percentage of projects over budget**, indicating cost estimation or scope control issues
+- Slight inefficiencies in **schedule performance or resource allocation**
+
+**Notable Patterns:**
+- Despite strong **budget reserves**, some sectors still experience overruns → suggests **planning vs. execution disconnect**
+- Enterprise and E-Commerce sectors show **compounding issues across multiple KPIs**, not just isolated weaknesses
+
+**Implication:**  
+These sectors require **targeted optimization**, not overhaul:
+- Improve **cost forecasting and scope management**
+- Strengthen **project controls during execution phases**
+- Monitor high-risk projects more aggressively  
+
+---
+
+### 🔴 Unsatisfactory Performing Sector (1/5)
+
+**Artificial Intelligence**
+
+AI is the **clear underperformer**, failing to meet most KPI thresholds and presenting significant portfolio risk.
+
+**Primary Issues:**
+- Extremely high **budget overrun rate (~80%)**
+- Weak **cost and schedule performance**
+- Insufficient **financial buffers**
+- Poor **resource efficiency (low TCPI)**
+
+**Root Causes:**
+- Likely **high uncertainty and volatility** in project scope
+- Immature **estimation and planning frameworks**
+- Rapidly evolving requirements leading to **scope creep and rework**
+
+**Implication:**  
+This sector requires **immediate strategic intervention**:
+- Reassess **project selection and feasibility criteria**
+- Implement stricter **governance and stage-gate controls**
+- Increase **risk mitigation planning and contingency allocation**
+
+---
+
+## 🧭 Overall Portfolio Insight
+
+- The PMO maintains a **strong core of high-performing sectors**, indicating solid foundational project management practices.
+- **Most underperformance is tied to financial discipline**, not schedule failure — suggesting execution is strong, but **planning accuracy needs refinement**.
+- Risk is **concentrated rather than widespread**, with AI as a clear outlier.
+
+---
+
+## 🎯 Strategic Recommendations
+
+1. **Standardize Best Practices**  
+   Replicate processes from high-performing sectors across the portfolio.
+
+2. **Strengthen Cost Governance**  
+   Enhance budgeting accuracy, forecasting models, and real-time cost tracking.
+
+3. **Targeted Intervention for AI**  
+   Introduce tighter controls, smaller pilot projects, and iterative delivery models.
+
+4. **Improve Budget Compliance Monitoring**  
+   Flag sectors with >50% over-budget projects earlier in the lifecycle.
+
+---
+
+**Conclusion:**  
+The portfolio is **performing well overall**, with strong leadership in multiple sectors. However, **targeted improvements in cost management and high-risk sector oversight** will be critical to achieving consistent excellence across the entire PMO.
+
+---
 ---
